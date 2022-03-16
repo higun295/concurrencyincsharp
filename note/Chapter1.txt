@@ -1,0 +1,9 @@
+- Async in c# 5.0 <Alex Davies>(O'Reilly) / online documentation that Microsoft provided for async
+=> at lest read the "async overview" and "Task-based Asynchronous Pattern(TAP)
+- Parallel Programming with Microsoft .NET <Colin Campbell>(MicrosoftPress)
+
+========================================================================
+
+- 2 kinds of Parallelism : Data parallelism / Task parallelism
+
+- IObservable, IObserver에 대해 알아보기

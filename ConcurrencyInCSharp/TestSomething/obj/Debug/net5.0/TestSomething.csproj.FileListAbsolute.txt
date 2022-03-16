@@ -1,0 +1,16 @@
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\bin\Debug\net5.0\TestSomething.exe
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\bin\Debug\net5.0\TestSomething.deps.json
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\bin\Debug\net5.0\TestSomething.runtimeconfig.json
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\bin\Debug\net5.0\TestSomething.runtimeconfig.dev.json
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\bin\Debug\net5.0\TestSomething.dll
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\bin\Debug\net5.0\ref\TestSomething.dll
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\bin\Debug\net5.0\TestSomething.pdb
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\obj\Debug\net5.0\TestSomething.csproj.AssemblyReference.cache
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\obj\Debug\net5.0\TestSomething.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\obj\Debug\net5.0\TestSomething.AssemblyInfoInputs.cache
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\obj\Debug\net5.0\TestSomething.AssemblyInfo.cs
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\obj\Debug\net5.0\TestSomething.csproj.CoreCompileInputs.cache
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\obj\Debug\net5.0\TestSomething.dll
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\obj\Debug\net5.0\ref\TestSomething.dll
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\obj\Debug\net5.0\TestSomething.pdb
+E:\Projects\ConcurrencyInCSharp\ConcurrencyInCSharp\TestSomething\obj\Debug\net5.0\TestSomething.genruntimeconfig.cache
